@@ -1,10 +1,10 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm Bailey Tormey
 hide: true
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Bailey Tormey
 
 ### Development Environment
 
