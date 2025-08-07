@@ -4,8 +4,8 @@ title: I'm Bailey Tormey
 hide: true
 ---
 
-Hello! My name is Bailey Tormey
-One fun fact about me is I am getting married in 11 days
+Hello! My name is Bailey Valoria!
+One fun fact about me is I got married this summer!
 
 ### Development Environment
 
